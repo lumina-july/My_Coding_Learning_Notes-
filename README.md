@@ -1,7 +1,7 @@
 # My_Coding_Learning_Notes
 This repository records my complete programming self-study journey from scratch.
 All source codes, practice projects and LaTeX documents are stored here chronologically.
-
+```
 ## Repository Structure
 ├── 01_C_Language
 │   ├── basic_exercise     // Fundamental C grammar exercises
@@ -13,6 +13,7 @@ All source codes, practice projects and LaTeX documents are stored here chronolo
 ├── 04_C++_learning
 │   ├── basic_syntax       // C++ basic syntax practices
 │   └── mini_projects      // C++ language small projects:
+```
 
 ## Learning Roadmap
 1. Master C programming language; implement several classic console mini-games
